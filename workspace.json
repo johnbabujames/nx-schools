@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "students-service": "apps/students-service"
+  }
+}
